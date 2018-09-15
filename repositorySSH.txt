@@ -1,0 +1,10 @@
+Quick setup ¡ª if you¡¯ve done this kind of thing before
+
+or	
+
+HTTPS    https://github.com/RyenToretto/NewProject.git
+SSH    git@github.com:RyenToretto/NewProject.git
+
+
+
+We recommend every repository include a README, LICENSE, and .gitignore.
